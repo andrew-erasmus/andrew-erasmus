@@ -1,0 +1,4 @@
+- Hi, I’m @andrew-erasmus!
+- I’m interested in trying out new things while I learn, and making cool ideas come to life.
+- I’m currently learning the fundamentals of JavaScript.
+- How to reach me: Email me @andrew.r.eras@gmail.com :)
