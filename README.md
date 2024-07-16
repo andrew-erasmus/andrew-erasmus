@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey 👋, I'm Andrew<br><br>I'm a developer and student from South Africa. Welcome to my profile.<br><br>🧑‍💻 I'm currently working on Full Stack Javascript from TheOdinProject.<br>🤝 I’m looking to collaborate on anything cool and interesting.<br>🌱 Currently I'm experimenting with some random things that I've been using to grow my skills.<br>📚 I’m currently learning HTML, CSS, JS, React, among other things.<br>📫 How to reach me: andrew.r.eras@gmail.com<br>
 
 
