@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew-erasmus&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-erasmus" /> </p>
 
-- 🔭 I’m currently working on **TheOdinProject's Full Stack JavaScript**
+- 🔭 I’m currently working on **TheOdinProject's Full Stack JavaScript path**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
 
