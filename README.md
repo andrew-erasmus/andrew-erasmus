@@ -1,8 +1,6 @@
 
 # About Me:
 Hey 👋, I'm Andrew<br><br>I'm a developer and student from South Africa. Welcome to my profile.<br><br>🧑‍💻 I'm currently working on Full Stack Javascript from TheOdinProject.<br>🤝 I’m looking to collaborate on anything cool and interesting.<br>🌱 Currently I'm experimenting with some random things that I've been using to grow my skills.<br>📚 I’m currently learning HTML, CSS, JS, React, among other things.<br>📫 How to reach me: andrew.r.eras@gmail.com<br>
-
-<div align = "center">
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-erasmus-62043b23b) 
@@ -23,5 +21,4 @@ Hey 👋, I'm Andrew<br><br>I'm a developer and student from South Africa. Welco
 ---
 [![](https://visitcount.itsvg.in/api?id=andrew-erasmus&icon=1&color=3)](https://visitcount.itsvg.in)
 
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
