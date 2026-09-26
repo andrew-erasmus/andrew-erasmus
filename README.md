@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">A developer and student from South Africa</h3>
+<h3 align="center">A Software Engineer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew-erasmus&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-erasmus" /> </p>
 
-- 🔭 I’m currently working on **My Honours Project at UCT**
+- 🔭 I’m currently working on **Personal Projects**
 
 - 🤝 I’m looking to collaborate on **anything cool**
 
